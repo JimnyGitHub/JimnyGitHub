@@ -2,7 +2,6 @@
 - 👀 I’m interested in Devops and ia
 - 🌱 I’m currently learning all I can about ia
 - 💞️ I’m looking to collaborate on an opensource project in HomeOffice
-- 📫 You can reach me on mastodon
 
 <!---
 JimnyGitHub/JimnyGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
